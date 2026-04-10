@@ -18,7 +18,7 @@ A responsive product landing page built using HTML, CSS, and JavaScript.
 (Paste your GitHub Pages link here)
 
 ## 📂 Repository
-(Paste your GitHub repo link here)
+https://github.com/EjayRapisura/product-landing-page
 
 ## 👨‍💻 Developer
 Fagarang, Luigi R.
