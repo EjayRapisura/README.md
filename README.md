@@ -15,7 +15,7 @@ A responsive product landing page built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 🌐 Live Demo
-(Paste your GitHub Pages link here)
+https://ejayrapisura.github.io/product-landing-page/
 
 ## 📂 Repository
 https://github.com/EjayRapisura/product-landing-page
